@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@gravity-ui/nodekit": "../../nodekit/",
+    "@gravity-ui/expresskit": "../../expresskit/",
     "axios": "^1.2.2"
   }
 }
